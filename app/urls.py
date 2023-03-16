@@ -3,5 +3,5 @@ from django.urls import path,include
 from . import views
 
 urlpatterns = [
-    path('', admin.site.urls,name=''),
+    path('', views.home,name='home'),
 ]
