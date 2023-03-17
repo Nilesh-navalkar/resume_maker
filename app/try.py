@@ -153,11 +153,11 @@ def section(doc,title,text):
 
 
 
-titlesection(doc,'nilesh navalkar','B/505, Sinhagad Building, Rajendra Nagar, Borivali E, Mumbai 400 066','nnavalkar29@gmail.com','9699657488')
-careerobj(doc,'To work for an organization which provides me the opportunity to improve my skiils as an engineer and knowledge to grow along with the organization"s objective.')
-skills(doc,'c,c++,java,python,html,js')
-education(doc,[['B.TECH','9.9sgpa','2021-2022','d. j sanghvi college of engineering'],['B.ed','9.9%','2021-2022','d. j sanghvi college of engineering'],['B.TECH','9.9gpa','2021-2022','d. j sanghvi college of engineering']])
-projects(doc,[['title 1','A block-level item flows the text it contains between its left and right edges, adding an additional line each time the text extends beyond its right boundary. For a paragraph, the boundaries are generally the page margins, but they can also be column boundaries if the page is laid out in columns, or cell boundaries if the paragraph occurs inside a table cell.','https://google.com'],['title 1','A block-level item flows the text it contains between its left and right edges, adding an additional line each time the text extends beyond its right boundary. For a paragraph, the boundaries are generally the page margins, but they can also be column boundaries if the page is laid out in columns, or cell boundaries if the paragraph occurs inside a table cell.','https://google.com']])
-workxp(doc,[['google intern','2020-2020'],['google intern','2020-2020'],['google intern','2020-2020']])
-section(doc,'sample','hobbies:porm,smentai')
-doc.save('resume.docx')
+# titlesection(doc,'nilesh navalkar','B/505, Sinhagad Building, Rajendra Nagar, Borivali E, Mumbai 400 066','nnavalkar29@gmail.com','9699657488')
+# careerobj(doc,'To work for an organization which provides me the opportunity to improve my skiils as an engineer and knowledge to grow along with the organization"s objective.')
+# skills(doc,'c,c++,java,python,html,js')
+# education(doc,[['B.TECH','9.9sgpa','2021-2022','d. j sanghvi college of engineering'],['B.ed','9.9%','2021-2022','d. j sanghvi college of engineering'],['B.TECH','9.9gpa','2021-2022','d. j sanghvi college of engineering']])
+# projects(doc,[['title 1','A block-level item flows the text it contains between its left and right edges, adding an additional line each time the text extends beyond its right boundary. For a paragraph, the boundaries are generally the page margins, but they can also be column boundaries if the page is laid out in columns, or cell boundaries if the paragraph occurs inside a table cell.','https://google.com'],['title 1','A block-level item flows the text it contains between its left and right edges, adding an additional line each time the text extends beyond its right boundary. For a paragraph, the boundaries are generally the page margins, but they can also be column boundaries if the page is laid out in columns, or cell boundaries if the paragraph occurs inside a table cell.','https://google.com']])
+# workxp(doc,[['google intern','2020-2020'],['google intern','2020-2020'],['google intern','2020-2020']])
+# section(doc,'sample','hobbies:yhis,that')
+# doc.save('resume.docx')
