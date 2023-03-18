@@ -1,4 +1,8 @@
 # resume_maker
+abstract:
+minimalist resume maker web app is a fast and efficient tool for creating professional resumes with ease. Built using the Python programming language and the Django web framework, our app features a clean and simple user interface that makes it easy for users to enter their information and select a template.
+The app makes a resume in a common minimalistic format so as to remove the hassle of selecting through multiple formats which just results in waste of time. 
+Our minimalist resume maker web app is designed for busy professionals who need a fast and easy way to create a great-looking resume. Whether you're a recent graduate or an experienced job seeker, our app makes it easy to showcase your skills and accomplishments in a professional and polished way.
 
 
 
